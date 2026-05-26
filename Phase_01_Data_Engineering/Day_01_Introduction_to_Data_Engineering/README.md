@@ -166,14 +166,14 @@ df.to_csv('output.csv', index=False)   # Save as CSV
 
 ## Day 1 Completion Checklist
 
-- [ ] I can explain what a Data Engineer does
-- [ ] I can classify Structured, Semi-Structured, and Unstructured data
-- [ ] I have loaded `student_performance.csv` in Google Colab
-- [ ] All notebook cells run without errors
-- [ ] I have created a GitHub account
-- [ ] I have created a repository named `codeboosters-internship-2024`
-- [ ] I have uploaded my Day 1 notebook to GitHub
-- [ ] I have updated my README.md
+- [✅ ] I can explain what a Data Engineer does
+- [✅ ] I can classify Structured, Semi-Structured, and Unstructured data
+- [ ✅] I have loaded `student_performance.csv` in Google Colab
+- [ ✅] All notebook cells run without errors
+- [ ✅] I have created a GitHub account
+- [✅ ] I have created a repository named `codeboosters-internship-2024`
+- [✅ ] I have uploaded my Day 1 notebook to GitHub
+- [✅ ] I have updated my README.md
 
 ---
 
